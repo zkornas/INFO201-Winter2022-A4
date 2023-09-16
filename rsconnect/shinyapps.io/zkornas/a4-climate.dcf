@@ -1,0 +1,13 @@
+name: a4-climate
+title:
+username:
+account: zkornas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5785398
+bundleId: 5645004
+url: https://zkornas.shinyapps.io/a4-climate/
+when: 1646450695.47572
+lastSyncTime: 1646450695.47572
+asMultiple: FALSE
+asStatic: FALSE
